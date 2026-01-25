@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b> Active Directory (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/jabddeen1/ActiveDirectory-/blob/main/README.md)
 - <b>Ticketing Systems</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Harware</b>
