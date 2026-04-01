@@ -4,9 +4,9 @@
 
 - <b> Active Directory</b>
   - [Onboarding Process](https://github.com/jabddeen1/ActiveDirectory-/blob/main/README.md)
-  - [Setting Up OU Hierarchy]
-  - [Setting Restrictions through GP]
-  - [Auditing Changes to Objects]
+  - [Setting Up OU Hierarchy](https://github.com/jabddeen1/ActiveDirectory-/blob/main/README.md)
+  - [Setting Restrictions through GP](https://github.com/jabddeen1/ActiveDirectory-/blob/main/README.md)
+  - [Auditing Changes to Objects](https://github.com/jabddeen1/ActiveDirectory-/blob/main/README.md)
 - <b> M365 Administration</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Hardware Configuration</b>
