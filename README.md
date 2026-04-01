@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- <b> Active Directory (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/jabddeen1/ActiveDirectory-/blob/main/README.md)
+- <b> Active Directory</b>
+  - [Onboarding Process](https://github.com/jabddeen1/ActiveDirectory-/blob/main/README.md)
+  - [Setting Up OU Hierarchy]
+  - [Setting Restrictions through GP]
+  - [Auditing Changes to Objects]
 - <b> M365 Administration</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Hardware Configuration</b>
